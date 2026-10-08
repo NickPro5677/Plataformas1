@@ -1,0 +1,27 @@
+# Salida de compilación de GameMaker / Igor
+build_cache/
+build_out/
+build_temp/
+output/
+tmp/
+temp/
+*.tmp
+
+# Paquetes y ejecutables exportados
+*.yyz
+*.yymps
+*.zip
+*.AppImage
+*.exe
+*.apk
+*.aab
+
+# Logs
+*.log
+
+# Datos locales del IDE y licencia (nunca subir)
+*.plist
+
+# Sistema
+.DS_Store
+Thumbs.db
